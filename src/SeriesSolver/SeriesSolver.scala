@@ -25,6 +25,6 @@ object SeriesSolver {
   }
 
   def main(args: Array[String]): Unit = {
-    print(GCD(270,192))
+    print(GCD(271,192))
   }
 }
